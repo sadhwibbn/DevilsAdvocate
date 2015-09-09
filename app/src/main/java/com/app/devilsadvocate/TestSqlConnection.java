@@ -1,10 +1,9 @@
-package com.example.example_09072015;
+package com.app.devilsadvocate;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
-import java.sql.Statement;
 
 /**
  * Created by Srinivas on 9/9/2015.

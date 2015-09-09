@@ -1,4 +1,4 @@
-package com.example.example_09072015;
+package com.example.devilsadvocate;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
