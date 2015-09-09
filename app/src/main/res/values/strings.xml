@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Add your name!</string>
+
+    <string name="textview">Who is learning to program Android?</string>
+    <string name="button">Add</string>
+    <string name="hint">Please enter a name</string>
+    <string name="action_settings">Settings</string>
+</resources>

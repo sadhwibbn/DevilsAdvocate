@@ -1,0 +1,10 @@
+<!-- Defines the menu item that will appear on the Action Bar in MainActivity -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:example_09072015="http://schemas.android.com/apk/res-auto">
+    <!-- Share item -->
+    <item
+        android:id="@+id/menu_item_share"
+        android:title="Share"
+        example_09072015:showAsAction="ifRoom"
+        example_09072015:actionProviderClass= "android.support.v7.widget.ShareActionProvider" />
+</menu>
